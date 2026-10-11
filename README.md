@@ -23,6 +23,7 @@ I build things that mix code, AI, and design: Android apps, computer vision expe
 - **[CryptoVault Pro](https://github.com/Ronakkumar343/encryption)** — Local security toolkit: AES-256-GCM text & file encryption, Ed25519 digital signatures, hashing, HMAC, and a password generator. Zero data leaves your device. *(Python + Streamlit)*
 - **[OmniConvert Pro](https://github.com/Ronakkumar343/unit-conversion)** — Unit & currency converter with a modular converter engine, a unit registry, and a live exchange-rate provider. *(Python)*
 - **[Thar Weather AI](https://github.com/Ronakkumar343/weather-ai-predictor)** — ML weather forecasts for my hometown Mithi, Tharparkar: Random Forest models trained on 11 years of real local weather data predict tomorrow's temperature (mean error ~1 °C) and rain chance. *(Python + scikit-learn + Streamlit)*
+- **[Gesture-to-Speech](https://github.com/Ronakkumar343/gesture-to-speech)** — Hand-gesture recognition that speaks phrases aloud: MediaPipe hand landmarks feed a pure-geometry classifier (open palm, thumbs up, fist, peace sign — double-palm means "I need help"), with a 5-frame stabilizer, sentence builder, and session transcripts. *(Python + MediaPipe + OpenCV)*
 
 **In development 🚧**
 - **[Chessmate](https://github.com/Ronakkumar343/Chessmate)** — Web chess powered by Stockfish 18: live evaluation, ELO tracking, AI opponents across 5 difficulty tiers.
